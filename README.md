@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umer Ali</h1>
-<h3 align="center">A passionate Flutter Developer beautiful Mobile Apps</h3>
+<h3 align="center">A passionate Flutter Developer building beautiful Mobile Apps</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
