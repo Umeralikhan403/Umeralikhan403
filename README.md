@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeralikhan403&label=Profile%20views&color=0e75b6&style=flat" alt="umeralikhan403" /> </p>
 
-- 🌱 I’m currently learning Flutter Mobile App Development **Flutter, Dart**
+- 🌱 I’m Currently Learning Flutter Mobile App Development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
