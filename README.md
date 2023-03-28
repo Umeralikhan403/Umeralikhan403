@@ -1,6 +1,6 @@
 # Hi there, I'm Umer! 👋
 
-<img width="47%" src= "https://github-readme-stats.vercel.app/api?username=Umeralikhan403&show_icons=true&theme=dark" />
+<img width="47%" src= "https://github-readme-stats.vercel.app/api?username=Umeralikhan403&show_icons=true&theme=radical" />
 
 <img width="47%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Umeralikhan403&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
 
