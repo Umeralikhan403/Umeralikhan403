@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umer Ali</h1>
 <h3 align="center">A passionate Flutter Developer beautiful Mobile Apps</h3>
 
-<img width="46%" align="right" alt="coding" src = "https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
+<img width="50%" align="right" alt="coding" src = "https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeralikhan403&label=Profile%20views&color=0e75b6&style=flat" alt="umeralikhan403" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@umeralikhan403" target="blank"><img src="https://img.shields.io/twitter/follow/@umeralikhan403?logo=twitter&style=for-the-badge" alt="@umeralikhan403" /></a> </p>
