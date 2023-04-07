@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Umer Ali</h1>
+<h1 align="center">Hi👋 I'm Umer Ali</h1>
 <h3 align="center">A passionate Flutter Developer beautiful Mobile Apps</h3>
 
 <img width="48%" align="right" alt="coding" src = "https://i.pinimg.com/originals/7b/0e/3e/7b0e3e99ab07ba3b6a7a5505ae47ec02.gif">
