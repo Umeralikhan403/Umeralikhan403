@@ -1,5 +1,5 @@
 <h1 align="center"> Hi👋 I'm Umer Ali</h1>
-<h3 align="center">Passionate Flutter Developer🖥 building beautiful Mobile Apps</h3>
+<h3 align="center">Passionate Flutter Developer🖥 📱 building beautiful Mobile Apps</h3>
 
 <img width="48%" align="right" alt="coding" src = "https://i.pinimg.com/originals/7b/0e/3e/7b0e3e99ab07ba3b6a7a5505ae47ec02.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeralikhan403&label=Profile%20views&color=0e75b6&style=flat" alt="umeralikhan403" /> </p>
