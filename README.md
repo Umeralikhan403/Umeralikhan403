@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/@umeralikhan403" target="blank"><img src="https://img.shields.io/twitter/follow/@umeralikhan403?logo=twitter&style=for-the-badge" alt="@umeralikhan403" /></a> </p>
 
-- 🔭 I’m currently student of **Computer System Engineering**
+- 🔭 Student of **Computer System Engineering**
 -  Studying at University of Engineering and Technology Peshawar, Pakistan 
-- 🌱 I’m currently learning **Flutter Mobile App Development**
+- 🌱 Learning **Flutter Mobile App Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
