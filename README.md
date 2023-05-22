@@ -6,7 +6,7 @@
 <a href="https://instagram.com/umerali_khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umerali_khan" height="30" width="40" /></a>
 </p>
 
-<img width="50%%" align="right" alt="coding" src = "https://i.pinimg.com/originals/7b/0e/3e/7b0e3e99ab07ba3b6a7a5505ae47ec02.gif">
+<!-- <img width="50%%" align="right" alt="coding" src = "https://i.pinimg.com/originals/7b/0e/3e/7b0e3e99ab07ba3b6a7a5505ae47ec02.gif"> -->
 
 <img align="left" width="47%" src= "https://github-readme-stats.vercel.app/api?username=Umeralikhan403&show_icons=true&theme=radical" />
 
