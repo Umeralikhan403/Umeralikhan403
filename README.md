@@ -8,9 +8,9 @@
 
 <!-- <img width="50%%" align="right" alt="coding" src = "https://i.pinimg.com/originals/7b/0e/3e/7b0e3e99ab07ba3b6a7a5505ae47ec02.gif"> -->
 
-<img align="left" width="47%" src= "https://github-readme-stats.vercel.app/api?username=Umeralikhan403&show_icons=true&theme=radical" />
+<!-- <img align="left" width="47%" src= "https://github-readme-stats.vercel.app/api?username=Umeralikhan403&show_icons=true&theme=radical" />
 
-<img align="left" width="38%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Umeralikhan403&layout=compact" />
+<img align="left" width="38%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Umeralikhan403&layout=compact" /> -->
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
