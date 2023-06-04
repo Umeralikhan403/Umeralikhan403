@@ -6,15 +6,9 @@
 <a href="https://instagram.com/umerali_khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umerali_khan" height="30" width="40" /></a>
 </p>
 
-
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Umeralikhan403&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!-- <img width="50%%" align="right" alt="coding" src = "https://i.pinimg.com/originals/7b/0e/3e/7b0e3e99ab07ba3b6a7a5505ae47ec02.gif"> -->
-
-<!-- <img align="left" width="47%" src= "https://github-readme-stats.vercel.app/api?username=Umeralikhan403&show_icons=true&theme=radical" />
-
-<img align="left" width="38%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Umeralikhan403&layout=compact" /> -->
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
