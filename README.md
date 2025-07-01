@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋 Umer Ali here</h1>
-<h3 align="center">Software Engineer: Mobile Developer Building Mobile Applications (Flutter , React Native)</h3>
+<h3 align="center">Software Engineer: Mobile Developer Building Mobile Applications (Flutter, React Native)</h3>
 
 <a href="https://twitter.com/@umeralikhan403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@umeralikhan403" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/umer-ali-96a5581b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/umer-ali-96a5581b2" height="30" width="40" /></a>
